@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Prashant Maharana, a Software Engineer and Open Source enthusiast, [depricated account : perseus98]
+- 👋 Hi, I'm Prashant Maharana, a Software Engineer and Open Source enthusiast, [depricated account : @perseus98]
 - 👀 I’m interested in learning Blender/Modeling
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on any flutter project.
